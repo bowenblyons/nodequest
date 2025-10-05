@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.log
+
+# Build artifacts
+bin/
+obj/
+dist/
+
+# Node.js modules (if applicable)
+node_modules/
+
+# Sensitive configuration files
+appsettings.Development.json
+secrets.json
+*.db
+*.pfx
